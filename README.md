@@ -34,7 +34,7 @@ Contact-Book/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/[your-username]/Contact-Book.git
+git clone https://github.com/Mona-rajpoot/Contact-Book.git
 ```
 
 ### 2. Navigate to the project directory
@@ -79,19 +79,11 @@ While building this project, I practiced:
 * Add better input validation
 * Add contact sorting and filtering
 
-## Screenshot
-
-Add a screenshot of the application here:
-
-```markdown
-![Contact Book Screenshot](screenshots/demo.png)
-```
-
 ## Author
 
 Mona
 
-GitHub: https://github.com/[your-username]
+GitHub: https://github.com/Mona-rajpoot
 
 ## License
 
